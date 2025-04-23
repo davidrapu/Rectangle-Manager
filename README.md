@@ -1,0 +1,1 @@
+If you get an error trying to run the jar file, use 'run.bat'
